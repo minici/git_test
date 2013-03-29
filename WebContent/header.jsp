@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	include header master 123
+	include header master
 </body>
 </html>
